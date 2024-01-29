@@ -1,6 +1,6 @@
 {
   "name": "@axquired24/mobile-preview",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Mobile Preview Component for React",
   "main": "dist/cjs/index.js",
   "files": [
@@ -18,6 +18,10 @@
     "mobile",
     "preview"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axquired24/react-mobile-preview.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.23.9",
     "@babel/preset-env": "^7.23.9",
